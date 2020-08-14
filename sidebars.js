@@ -117,7 +117,7 @@ module.exports = {
     },
 
     userGuide: {
-        "Dashboard": ["user-guide/dashboard"]
+        "Dashboard": ["userguide/dashboard"]
     },
 
 }

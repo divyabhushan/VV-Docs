@@ -39,7 +39,7 @@ position: 'right',
   position: 'right',
   },
   {
-    to: 'docs/user-guide/dashboard',
+    to: 'docs/userguide/dashboard',
     label: 'User Guide',
     position: 'right',
     },

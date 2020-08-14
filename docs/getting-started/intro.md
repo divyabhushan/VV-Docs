@@ -34,5 +34,5 @@ import TabItem from '@theme/TabItem';
   ]}>
   <TabItem value="Installation Guide"><a href="/docs/installation-guide/welcome">Installation Guide</a></TabItem>
   <TabItem value="Admin Guide"><a href="/docs/admin-guide/getting-started/welcome">Admin Guide</a></TabItem>
-  <TabItem value="User Guide"><a href="/docs/user-guide/dashboard">User Guide</a></TabItem>
+  <TabItem value="User Guide"><a href="/docs/userguide/dashboard">User Guide</a></TabItem>
 </Tabs>
